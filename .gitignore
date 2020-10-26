@@ -1,3 +1,8 @@
-*.tmp
+/*.tmp
 /build/
 /.gradle/
+
+/.vscode/
+/.classpath
+/.project
+/.settings/
